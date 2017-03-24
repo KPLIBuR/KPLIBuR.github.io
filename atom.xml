@@ -4,7 +4,7 @@
   <title><![CDATA[KPLI Bauau]]></title>
   <link href="http://kplibur.github.io/atom.xml" rel="self"/>
   <link href="http://kplibur.github.io/"/>
-  <updated>2017-03-24T07:26:16+07:00</updated>
+  <updated>2017-03-24T07:35:27+07:00</updated>
   <id>http://kplibur.github.io/</id>
   <author>
     <name><![CDATA[Miral Achmed]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://kplibur.github.io/blog/2017/03/24/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2017-03-24T07:33:56+07:00</updated>
+    <id>http://kplibur.github.io/blog/2017/03/24/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<p>tesasdkfjasdkfja;sdkfjas;dkfjasdkfjaskdfajsdkf</p>
+
+<h2>teststskjflskdjfaskd</h2>
+
+<p>fkasjdflaksjdf;lk#ksjdfalksd</p>
+
+<h1>skfa;sldkjfa;dkf</h1>
+]]></content>
+  </entry>
   
 </feed>
